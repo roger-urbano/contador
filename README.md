@@ -1,11 +1,4 @@
 # contador
 
-// Ejecutar lanzador
-$('.timer').countTo({ 
-	from: 0, 
-	to: 500, 
-	speed: 10000, 
-	refreshInterval: 1, 
-	onComplete: function(value) { 
-	} 
-});
+### CDN
+https://cdn.jsdelivr.net/gh/roger-urbano/contador/contador.js
